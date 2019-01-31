@@ -4,3 +4,4 @@ jupyter
 tqdm
 matplotlib
 scipy
+nauka==0.0.11
